@@ -33,5 +33,7 @@ int main (){
 	
 	//APARTADO 7 
 	resultado_7 = (caracter < 0,10 || 20,30);
-	cout << "Resultado apartado 7: " << resultado_7 << endl;	 
+	cout << "Resultado apartado 7: " << resultado_7 << endl;	
+	
+	//sadjfasdkjgfkgsfkjdgsfkjagskjgfagskhj 
 }
